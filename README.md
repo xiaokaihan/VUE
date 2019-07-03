@@ -1,2 +1,2 @@
-# -VUE
+# VUE
 初识VUE
